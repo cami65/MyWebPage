@@ -699,6 +699,31 @@ gap: 186px;
 
     
 }
+.conttext1
+{
+    animation: text 3s infinite;
+
+}
+
+@keyframes text{
+    
+        0%
+    {
+        color: #0689FF;
+        margin-bottom: 0px;
+    }
+    
+        30%{
+            letter-spacing: 10px;
+            margin-bottom: -10px;
+        }
+        85%{
+            letter-spacing: 5px;
+            margin-bottom: -20px;
+        }
+    
+    
+}
 
 .conttext1
 {

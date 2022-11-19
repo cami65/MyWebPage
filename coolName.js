@@ -15,16 +15,16 @@ const conts = [
       },  
       { 
         id: 1, 
-        conttext1: '2,500', 
+        conttext1: '2,100', 
         conttext2: `Homes For Sale`
       }, { 
           id: 2, 
-          conttext1: '5,000+', 
+          conttext1: '6,000+', 
           conttext2: `Homes Recently Sold`
         },
         { 
           id: 3, 
-          conttext1: '170+', 
+          conttext1: '1720+', 
           conttext2: `Price Reduced`
         }
   ]; 
