@@ -653,7 +653,7 @@ height: 15.43px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    align-items: flex-end;
+    align-items: flex-start;
 }
 .small-cont1
 {
@@ -678,11 +678,11 @@ height: 460px;
     height: 460px;
 }
 .smallcont2{
-    width: 985px;
+    width: 1047px;
     height: 135px;
 display: flex;
 overflow: hidden;
-gap: 220px;
+gap: 186px;
 }
 .leftright{
     display: flex;
@@ -695,6 +695,7 @@ gap: 220px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+    background-color: #0689FF;
 
 }
 
@@ -708,6 +709,8 @@ gap: 220px;
     color: #000000;
    margin-top: 0px;
    margin-bottom: 22px;
+   width: 225px;
+   text-align: center;
 }
 .conttext2
 {
@@ -717,6 +720,8 @@ gap: 220px;
     font-size: 18px;
     line-height: 27px;
     color: #7B8087; 
+    width: 225px;
+    text-align: center;
 }
 .small-cont121
 {

@@ -59,7 +59,7 @@ const conts = [
    
   function handleCarouselButtonClick(direction) { 
     currentSlideNumber += direction; 
-    const margin = -390 * currentSlideNumber; 
+    const margin = -411 * currentSlideNumber; 
     firstCard.style.marginLeft = `${margin}px`; 
    
     if(currentSlideNumber === 0) { 
@@ -68,7 +68,7 @@ const conts = [
       leftButton.removeAttribute('disabled'); 
     } 
    
-    if(currentSlideNumber === products.length - 3) { 
+    if(currentSlideNumber === conts.length - 3) { 
       rightButton.setAttribute('disabled', true); 
     } else { 
       rightButton.removeAttribute('disabled'); 

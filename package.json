@@ -1,0 +1,19 @@
+{
+  "name": "mywebpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "coolName.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cami65/MyWebPage.git"
+  },
+  "author": "Kamil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cami65/MyWebPage/issues"
+  },
+  "homepage": "https://github.com/cami65/MyWebPage#readme"
+}
